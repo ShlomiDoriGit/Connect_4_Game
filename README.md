@@ -10,6 +10,8 @@ work with animation when Player is win!
 
 ![image](https://user-images.githubusercontent.com/97397382/151800700-60d23243-e491-4472-9805-3791a2ab9fbd.png)
 
+![image](https://user-images.githubusercontent.com/97397382/151801375-d2311582-2826-4ac5-b370-eabf752e2327.png)
+
 ## Project setup
 ```
 npm install
