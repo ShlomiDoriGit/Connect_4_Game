@@ -1,4 +1,4 @@
-# connect_4_game
+# connect_4_game with Vue.js
 Connect 4 Game Assignment
 A single-page web application which allows the user to play the game "Connect Four".
 One player should fight against a remote computer controlled opponent 
